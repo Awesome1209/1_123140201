@@ -10,8 +10,6 @@ Repository ini berisi hasil pengerjaan Tugas Praktikum Minggu 1 untuk mata kulia
 
 ## 📱 Screenshot Aplikasi
 Berikut adalah tampilan aplikasi yang berjalan di Android Emulator:
-
-![Tampilan Aplikasi Tugas 1]
 ## Desktop (via JVM Run)
 (<img width="2560" height="1440" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/f944e361-8b08-477e-96d5-c7716e5f578b" />)
 ## Android (via Emulator Medium Phone API 36.1)
