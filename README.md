@@ -13,7 +13,8 @@ Berikut adalah tampilan aplikasi yang berjalan di Android Emulator:
 ## Desktop (via JVM Run)
 <img width="2560" height="1440" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/f944e361-8b08-477e-96d5-c7716e5f578b" />
 ## Android (via Emulator Medium Phone API 36.1)
-(![WhatsApp Image 2026-02-08 at 10 24 58 PM](https://github.com/user-attachments/assets/c1aee307-5692-4b34-a80c-44fa8942e7eb)
+![WhatsApp Image 2026-02-08 at 10 24 58 PM](https://github.com/user-attachments/assets/7e8190c5-98d8-4796-88ee-ae55fe0db75b)
+
 
 ## 📝 Deskripsi Tugas
 Sesuai instruksi praktikum, aplikasi ini dibuat menggunakan **Kotlin Multiplatform (KMP)** dengan modifikasi sebagai berikut:
