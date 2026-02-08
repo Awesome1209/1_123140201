@@ -13,8 +13,7 @@ Berikut adalah tampilan aplikasi yang berjalan di Android Emulator:
 ## Desktop (via JVM Run)
 <img width="2560" height="1440" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/f944e361-8b08-477e-96d5-c7716e5f578b" />
 ## Android (via Emulator Medium Phone API 36.1)
-![AndroidVisualTugas1](https://github.com/user-attachments/assets/59f952e7-467f-4054-88c8-4a09e98652ad)
-
+![Tampilan Aplikasi Android](AndroidVisualTugas1.jpeg)
 ---
 
 ## 📝 Deskripsi Tugas
