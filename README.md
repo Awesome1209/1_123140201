@@ -1,5 +1,5 @@
 # Tugas Praktikum 1 - Pengembangan Aplikasi Mobile
-
+---
 Repository ini berisi hasil pengerjaan Tugas Praktikum Minggu 1 untuk mata kuliah Pengembangan Aplikasi Mobile (IF25-22017).
 
 ## 👤 Identitas Mahasiswa
@@ -13,8 +13,8 @@ Berikut adalah tampilan aplikasi yang berjalan di Android Emulator:
 ## Desktop (via JVM Run)
 <img width="2560" height="1440" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/f944e361-8b08-477e-96d5-c7716e5f578b" />
 ## Android (via Emulator Medium Phone API 36.1)
-![WhatsApp Image 2026-02-08 at 10 24 58 PM](https://github.com/user-attachments/assets/7e8190c5-98d8-4796-88ee-ae55fe0db75b)
-
+![AndroidVisualTugas1](https://github.com/user-attachments/assets/aac74c2c-2413-49d9-8eee-1ddc1f4fbcd8)
+---
 
 ## 📝 Deskripsi Tugas
 Sesuai instruksi praktikum, aplikasi ini dibuat menggunakan **Kotlin Multiplatform (KMP)** dengan modifikasi sebagai berikut:
@@ -22,6 +22,7 @@ Sesuai instruksi praktikum, aplikasi ini dibuat menggunakan **Kotlin Multiplatfo
 2.  **Modifikasi UI**: Mengubah teks "Hello World" menjadi sapaan Nama Lengkap.
 3.  **Penambahan Fitur**: Menambahkan informasi NIM di bawah nama.
 4.  **Logika Platform**: Memastikan aplikasi tetap menampilkan informasi platform yang sedang berjalan (Android/Desktop).
+
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa Pemrograman**: Kotlin
